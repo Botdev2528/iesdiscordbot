@@ -284,7 +284,7 @@ async def spam_error(ctx,error):
 
 
 
-client.run("NTkwMTg3Mzk1MDczNDQxODAy.XQicWA.15z396rVgO7-2PKPFc9OUypT_DE")
+client.run("NTkwMTg3Mzk1MDczNDQxODAy.XQic7Q.dg6-_TUi7x2kWFPViKZ7N78s0jk")
 
 
 
